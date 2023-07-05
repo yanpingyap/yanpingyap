@@ -196,7 +196,7 @@ class App{
             panelSize: { height: 0.5 },
             height: 256,
             name: { fontSize: 50, height: 70 },
-            info: { position:{ top: 70, backgroundColor: "#ccc", fontColor:"#000" } }
+            info: { position:{ top: 70, backgroundColor: "#ccc", fontColor:"#00F" } }
         }
         const content = {
             name: "name",
